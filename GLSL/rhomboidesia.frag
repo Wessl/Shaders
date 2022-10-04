@@ -1,4 +1,5 @@
-// Author @patriciogv ( patriciogonzalezvivo.com ) - 2015
+// https://www.shadertoy.com/view/NtyBz3
+// made while learning shaders on https://thebookofshaders.com/
 
 #ifdef GL_ES
 precision mediump float;
